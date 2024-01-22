@@ -48,3 +48,7 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Students
+======
+近年研究生去向：阿里、快手、腾讯、网易、字节、中科院自动化所、华为诺亚方舟实验室、微软亚洲工程院、360搜索、中兴通讯、奇安信、京东方、中国农业银行、中金公司、富国基金、世坤咨询等
