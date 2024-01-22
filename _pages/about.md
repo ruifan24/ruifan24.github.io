@@ -52,4 +52,4 @@ More info about configuring academicpages can be found in [the guide](https://ac
 Students
 ======
 近年研究生去向：阿里、快手、腾讯、网易、字节、中科院自动化所、华为诺亚方舟实验室、微软亚洲工程院、360搜索、中兴通讯、奇安信、京东方、中国农业银行、中金公司、富国基金、世坤咨询等
-[URL=https://info.flagcounter.com/6KPu][IMG]https://s01.flagcounter.com/count2/6KPu/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/[/IMG][/URL]
+![访客统计](https://s01.flagcounter.com/count2/6KPu/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/ "访客统计")
